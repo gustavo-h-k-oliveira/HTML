@@ -1,3 +1,3 @@
-# Meow-Gallery
+# HTML
 
-Aplicação web para ver gatinhos fofinhos. 🤗🥰
+Páginas web do FreeCodeCamp.
